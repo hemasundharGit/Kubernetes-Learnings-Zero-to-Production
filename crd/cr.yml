@@ -1,0 +1,8 @@
+kind: KhsBatch
+apiVersion: hemasundharkolla.com/v1
+metadata:
+  name: khs-batch-9
+spec: 
+  name: lets start the war
+  duration: until you get richer in life 
+  
